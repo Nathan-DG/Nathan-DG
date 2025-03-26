@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Nathan-DG
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python code
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @natounet21
 
 <!---
 Nathan-DG/Nathan-DG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
